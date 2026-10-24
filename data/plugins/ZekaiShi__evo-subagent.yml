@@ -2,5 +2,5 @@ url: https://github.com/ZekaiShi/evo-subagent
 name: ZekaiShi/evo-subagent
 category: model
 description:
-  en: 'Smart subagent routing and evolution: bind roles to any provider/model registered in DSH, including models supplied by Codex and Claude Code provider plugins, with workspace learning.'
-  zh: '智能子代理路由与进化：按角色绑定 DSH 已注册的 provider/model；配合 Codex、Claude Code 等 provider 插件，可路由任意已注册模型，并保存工作区经验。'
+  en: 'Role-based routing to any DSH-registered model (including models from Codex and Claude Code provider plugins), workspace learning, companion personas and user habits, with global, workspace or conversation profiles.'
+  zh: '角色路由、经验进化、陪伴人格与用户习惯；支持任意 DSH 已注册模型（可配合其他插件接入 Codex、Claude Code），档案可全局共享或按工作区、对话独立维护。'
